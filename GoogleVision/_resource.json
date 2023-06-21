@@ -1,0 +1,7 @@
+{
+  "$id": "GoogleVision",
+  "$schema": "https://schema.yext.com/config/platform/plugin/v1",
+  "globals": {
+    "GOOGLE_VISION_API_KEY": "yourApiKey"
+  }
+}
